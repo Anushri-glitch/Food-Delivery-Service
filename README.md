@@ -1,3 +1,3 @@
 Food-Delivery-Service
 
-[Get All Restaurants](http://localhost:8080/getAllRestro)
+[Get All Restaurants](https://anushri-glitch.github.io/Food-Delivery-Service/getAllRestro)
